@@ -6,4 +6,4 @@ Rick Fleuren - Freelance Software Developer in the Netherlands
 - 📫 How to reach me: github@rickfleuren.nl
 - ⚡ Fun fact: We're still stretching the limits of a technology of almost 30 years old (HTML)
 
-[StackOverflow](https://stackoverflow.com/users/900/arcturus) / [LinkedIn](https://www.linkedin.com/in/rickfleuren/) / (Website)[http://www.rickfleuren.nl/]
+[StackOverflow](https://stackoverflow.com/users/900/arcturus) / [LinkedIn](https://www.linkedin.com/in/rickfleuren/) / [Website](http://www.rickfleuren.nl/)
